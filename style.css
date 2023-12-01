@@ -104,6 +104,10 @@ main{
 .education div{
     padding-bottom: 30px;
 }
+
+.education ul li{
+    font-size: 14px;
+}
 .education div h2{
     padding-bottom: 10px;
 }
